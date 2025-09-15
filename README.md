@@ -22,17 +22,28 @@
 ## ✨ Fitur Aplikasi
 - Menampilkan data tabel arsip surat.  
 ![SS 1](ss/1.png)
-- Mencari surat berdasarkan judulnya.  
-- Menghapus salah satu data surat.  
-- Mengunduh file PDF yang sudah diupload.  
-- Melihat detail salah satu data surat.  
-- Halaman untuk menambahkan data arsip surat.  
-- Menampilkan halaman data kategori surat.  
-- Mencari kategori berdasarkan nama kategori.  
-- Halaman untuk update/mengubah data kategori.  
-- Menghapus salah satu data kategori.  
-- Halaman untuk menambahkan data kategori.  
+- Mencari surat berdasarkan judulnya.
+![SS 1](ss/2.png)  
+- Menghapus salah satu data surat.
+![SS 1](ss/3.png)  
+- Mengunduh file PDF yang sudah diupload.
+![SS 1](ss/4.png)  
+- Melihat detail salah satu data surat.
+![SS 1](ss/5.png)  
+- Halaman untuk menambahkan data arsip surat.
+![SS 1](ss/6.png)  
+- Menampilkan halaman data kategori surat.
+![SS 1](ss/7.png)  
+- Mencari kategori berdasarkan nama kategori.
+![SS 1](ss/8.png)  
+- Halaman untuk update/mengubah data kategori.
+![SS 1](ss/9.png)  
+- Menghapus salah satu data kategori.
+![SS 1](ss/10.png)  
+- Halaman untuk menambahkan data kategori.
+![SS 1](ss/11.png)  
 - Halaman untuk menampilkan data pembuat project ini.  
+![SS 1](ss/12.png)
 
 ---
 
@@ -52,4 +63,4 @@ C:\xampp\htdocs\nama_aplikasi
 Buka terminal / Git Bash, lalu masuk ke folder proyek:
 ```bash
 cd nama_aplikasi
-Untuk menjalankannya menggunakan php artisan serve
+Untuk menjalankannya menggunakan **php artisan serve**
