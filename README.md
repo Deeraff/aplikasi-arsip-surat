@@ -21,7 +21,7 @@
 
 ## ✨ Fitur Aplikasi
 - Menampilkan data tabel arsip surat.  
-![SS 1](Screenshoot/Screenshot 2025-09-15 190303.png)
+![SS 1](ss/1.png)
 - Mencari surat berdasarkan judulnya.  
 - Menghapus salah satu data surat.  
 - Mengunduh file PDF yang sudah diupload.  
