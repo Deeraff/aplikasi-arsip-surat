@@ -60,7 +60,13 @@ C:\xampp\htdocs\nama_aplikasi
 - Import file `lsp-polinema.sql` yang ada di folder **SQL**.  
 
 ### 3. Instalasi & Konfigurasi
-Buka terminal / Git Bash, lalu masuk ke folder proyek:
+### 3. Instalasi & Konfigurasi
+Buka terminal / Git Bash, lalu masuk ke folder proyek, kemudian jalankan perintah berikut:
+
 ```bash
 cd nama_aplikasi
-Untuk menjalankannya menggunakan **php artisan serve**
+composer install
+cp .env.example .env
+php artisan serve
+
+
